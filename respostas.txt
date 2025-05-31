@@ -1,0 +1,7 @@
+São 4 registros com o nome Ana.
+São 3 registros com o nome Carlos.
+Todos com cpf diferentes.
+Três produtos custam mais de 20 reais.
+Arroz tipo 1
+Arroz tipo 1-promocão
+Panela antiaderente.
